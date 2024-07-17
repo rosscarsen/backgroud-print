@@ -14,3 +14,5 @@
 - mPrintInvoice 1 收据 2 二维码 3 客户记录
 
 ## <a href="build/app/outputs/flutter-apk/bgPrint.apk" download>APK 下载</a>
+
+## [APK 下载](https://github.com/rosscarsen/backgroud-print/blob/main/build/app/outputs/flutter-apk/bgPrint.apk)
