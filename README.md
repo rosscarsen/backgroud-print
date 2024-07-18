@@ -13,6 +13,4 @@
 - 打印客户记录用系统设置的发票打印机，获取数据条件发票表 mPrintInvoice=3,打印完成后修改 mPrintInvoice=0
 - mPrintInvoice 1 收据 2 二维码 3 客户记录
 
-## <a href="build/app/outputs/flutter-apk/bgPrint.apk" download>APK 下载</a>
-
-## [APK 下载](https://github.com/rosscarsen/backgroud-print/blob/main/build/app/outputs/flutter-apk/bgPrint.apk)
+## [APK 下载](https://github.com/rosscarsen/backgroud-print/releases/download/1.0.0/bgPrint.apk)
